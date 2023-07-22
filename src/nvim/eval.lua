@@ -219,7 +219,7 @@ return {
     indexof={args={2, 3}, base=1},
     input={args={1, 3}, base=1},
     inputdialog={args={1, 3}, base=1},
-    inputlist={args=1, base=1},
+    inputlist={args={1, 2}, base=1},
     inputrestore={},
     inputsave={},
     inputsecret={args={1, 2}, base=1},
